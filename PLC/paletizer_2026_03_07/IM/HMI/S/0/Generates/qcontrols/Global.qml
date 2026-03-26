@@ -7,12 +7,12 @@ Item
 	{
 		id: q419430400
 		objId: 419430400
-		x: 1220
-		y: 48
+		x: 1233
+		y: 12
 		width: 37
 		height: 53
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/30#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/48#2#4#128#0#0"
 		qm_Border.top: 2
 		qm_Border.bottom: 2
 		qm_Border.right: 2
@@ -29,7 +29,7 @@ Item
 		qm_AlarmTextHeight: 14
 		qm_TextColor: "#ffffffff"
 		visible: false
-		qm_GraphicImageID : 28
+		qm_GraphicImageID : 46
 		Component.onCompleted:
 		{
 			proxy.initProxy(q419430400,419430400)
@@ -64,8 +64,8 @@ Item
 		modalityHeight: 100
 		IGuiGraphicButton
 		{
-			id: q486539290
-			objId: 486539290
+			id: q486539329
+			objId: 486539329
 			x: 1146
 			y: 0
 			width: 34
@@ -84,7 +84,7 @@ Item
 			qm_SourceSizeHeight: 30
 			Component.onCompleted:
 			{
-				proxy.initProxy(q486539290,486539290)
+				proxy.initProxy(q486539329,486539329)
 			}
 		}
 		IGuiAlarmView
@@ -146,17 +146,17 @@ Item
 					qm_tableHeaderMarginTop: 1
 					qm_noOfColumns: 5
 					qm_tableHeaderHeight: 21
-					qm_leftImageID: 24
+					qm_leftImageID: 42
 					qm_leftTileTop: 11
 					qm_leftTileBottom: 12
 					qm_leftTileRight: 2
 					qm_leftTileLeft: 4
-					qm_middleImageID: 25
+					qm_middleImageID: 43
 					qm_middleTileTop: 11
 					qm_middleTileBottom: 12
 					qm_middleTileRight: 2
 					qm_middleTileLeft: 2
-					qm_rightImageID: 26
+					qm_rightImageID: 44
 					qm_rightTileTop: 11
 					qm_rightTileBottom: 12
 					qm_rightTileRight: 4
@@ -171,15 +171,15 @@ Item
 			}
 			IGuiGraphicButton
 			{
-				id: q486539291
-				objId: 486539291
+				id: q486539330
+				objId: 486539330
 				x: 2
 				y: 623
 				width: 56
 				height: 40
 				qm_BorderCornerRadius: 3
 				qm_BorderWidth: 1
-				qm_ImageSource: "image://QSmartImageProvider/27#2#4#128#0#0"
+				qm_ImageSource: "image://QSmartImageProvider/45#2#4#128#0#0"
 				qm_Border.top: 15
 				qm_Border.bottom: 15
 				qm_Border.right: 5
@@ -196,20 +196,20 @@ Item
 				qm_SourceSizeHeight: 36
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539291,486539291)
+					proxy.initProxy(q486539330,486539330)
 				}
 			}
 			IGuiGraphicButton
 			{
-				id: q486539292
-				objId: 486539292
+				id: q486539331
+				objId: 486539331
 				x: 1120
 				y: 623
 				width: 56
 				height: 40
 				qm_BorderCornerRadius: 3
 				qm_BorderWidth: 1
-				qm_ImageSource: "image://QSmartImageProvider/27#2#4#128#0#0"
+				qm_ImageSource: "image://QSmartImageProvider/45#2#4#128#0#0"
 				qm_Border.top: 15
 				qm_Border.bottom: 15
 				qm_Border.right: 5
@@ -226,7 +226,7 @@ Item
 				qm_SourceSizeHeight: 36
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539292,486539292)
+					proxy.initProxy(q486539331,486539331)
 				}
 			}
 			Component.onCompleted:
