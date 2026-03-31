@@ -27,20 +27,6 @@ IGuiTemplate
 		qm_Anchors.rightMargin: 3
 		qm_Anchors.topMargin: 3
 	}
-	IGuiGraphicView
-	{
-		id: q301989888
-		objId: 301989888
-		x: 0
-		y: 2
-		width: 168
-		height: 116
-		qm_Transparent : true 
-		qm_ImageWidth: 168
-		qm_ImageHeight: 116
-		qm_SourceSizeWidth: 168
-		qm_SourceSizeHeight: 116
-	}
 	IGuiTextField
 	{
 		id: q268435465
@@ -56,5 +42,21 @@ IGuiTemplate
 		qm_Anchors.leftMargin: 3
 		qm_Anchors.rightMargin: 2
 		qm_Anchors.topMargin: 2
+	}
+	IGuiGraphicView
+	{
+		id: q301989944
+		objId: 301989944
+		x: 0
+		y: 0
+		width: 196
+		height: 102
+		qm_FillColor: "#ffc686ff"
+		qm_RectangleBorder.width:0
+		qm_RectangleBorder.color:"#ff000000"
+		qm_ImageWidth: 196
+		qm_ImageHeight: 102
+		qm_SourceSizeWidth: 196
+		qm_SourceSizeHeight: 102
 	}
 }
