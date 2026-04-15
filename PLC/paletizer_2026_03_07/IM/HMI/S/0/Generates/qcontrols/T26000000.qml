@@ -45,8 +45,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989944
-		objId: 301989944
+		id: q301989891
+		objId: 301989891
 		x: 0
 		y: 0
 		width: 196

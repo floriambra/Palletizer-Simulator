@@ -64,8 +64,8 @@ Item
 		modalityHeight: 100
 		IGuiGraphicButton
 		{
-			id: q486539321
-			objId: 486539321
+			id: q486539305
+			objId: 486539305
 			x: 1146
 			y: 0
 			width: 34
@@ -84,7 +84,7 @@ Item
 			qm_SourceSizeHeight: 30
 			Component.onCompleted:
 			{
-				proxy.initProxy(q486539321,486539321)
+				proxy.initProxy(q486539305,486539305)
 			}
 		}
 		IGuiAlarmView
@@ -171,8 +171,8 @@ Item
 			}
 			IGuiGraphicButton
 			{
-				id: q486539322
-				objId: 486539322
+				id: q486539306
+				objId: 486539306
 				x: 2
 				y: 623
 				width: 56
@@ -196,13 +196,13 @@ Item
 				qm_SourceSizeHeight: 36
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539322,486539322)
+					proxy.initProxy(q486539306,486539306)
 				}
 			}
 			IGuiGraphicButton
 			{
-				id: q486539323
-				objId: 486539323
+				id: q486539307
+				objId: 486539307
 				x: 1120
 				y: 623
 				width: 56
@@ -226,7 +226,7 @@ Item
 				qm_SourceSizeHeight: 36
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539323,486539323)
+					proxy.initProxy(q486539307,486539307)
 				}
 			}
 			Component.onCompleted:
