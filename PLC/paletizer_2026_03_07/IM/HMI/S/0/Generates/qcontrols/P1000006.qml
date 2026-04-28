@@ -10,8 +10,8 @@ IGuiPage
 	height: 800
 	IGuiButton
 	{
-		id: q486539323
-		objId: 486539323
+		id: q486539317
+		objId: 486539317
 		x: 427
 		y: 350
 		width: 181
@@ -33,8 +33,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539324
-		objId: 486539324
+		id: q486539318
+		objId: 486539318
 		x: 427
 		y: 418
 		width: 181
@@ -56,8 +56,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539325
-		objId: 486539325
+		id: q486539319
+		objId: 486539319
 		x: 427
 		y: 493
 		width: 181
@@ -79,8 +79,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539326
-		objId: 486539326
+		id: q486539320
+		objId: 486539320
 		x: 1034
 		y: 697
 		width: 181
@@ -102,8 +102,8 @@ IGuiPage
 	}
 	IGuiGraphicView
 	{
-		id: q301989895
-		objId: 301989895
+		id: q301989905
+		objId: 301989905
 		x: 344
 		y: 321
 		width: 50
@@ -116,8 +116,8 @@ IGuiPage
 	}
 	IGuiSymbolicIoOutput
 	{
-		id: q335544331
-		objId: 335544331
+		id: q335544337
+		objId: 335544337
 		x: 624
 		y: 390
 		width: 235
@@ -136,8 +136,8 @@ IGuiPage
 	}
 	IGuiSymbolicIoOutput
 	{
-		id: q335544332
-		objId: 335544332
+		id: q335544338
+		objId: 335544338
 		x: 411
 		y: 294
 		width: 470
@@ -156,8 +156,8 @@ IGuiPage
 	}
 	IGuiGraphicIOField
 	{
-		id: q335544333
-		objId: 335544333
+		id: q335544339
+		objId: 335544339
 		x: 699
 		y: 439
 		width: 87
@@ -175,8 +175,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435498
-		objId: 268435498
+		id: q268435519
+		objId: 268435519
 		x: 566
 		y: 160
 		width: 17
@@ -191,8 +191,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435499
-		objId: 268435499
+		id: q268435520
+		objId: 268435520
 		x: 485
 		y: 185
 		width: 311

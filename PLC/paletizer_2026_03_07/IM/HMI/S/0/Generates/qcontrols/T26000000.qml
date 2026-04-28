@@ -11,9 +11,9 @@ IGuiTemplate
 	{
 		id: q335544321
 		objId: 335544321
-		x: 52
-		y: 699
-		width: 493
+		x: 25
+		y: 716
+		width: 319
 		height: 53
 		qm_BorderCornerRadius: 9
 		qm_BorderWidth: 1
@@ -45,8 +45,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989891
-		objId: 301989891
+		id: q301989888
+		objId: 301989888
 		x: 0
 		y: 0
 		width: 196
